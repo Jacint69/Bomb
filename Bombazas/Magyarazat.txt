@@ -1,0 +1,4 @@
+﻿- Az előre elkészített txt-be a csatatér látszik. (X az üres hely, K a katona, H a ház(épület))
+- A program feladata, hogy megtalálja a legkevesebb költséggel/repüléssel megoldható bomba dobási lehetőséget
+- A program futása végén, ezt íratom ki a képernyőre, hogy melyik kordinátán érdemes bombát dobni.
+- A legjobb módszer megtalálásának kereséseként, kiírja mindig, hogy mennyi az az ár érték, ami a legolcsóbb.
